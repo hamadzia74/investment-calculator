@@ -1,2 +1,2 @@
-# investment-calculator
+# Investment-Calculator
 An Investment Calculator where you can enter some data about your planned investment. For example, your current savings, the amount you're going to add every year, the expected return on investment (ROI), your time horizon, and the timeframe of this investment. And then once click calculator you'll get a table with the results for this calculation where you can see year by year how much interest you're going to gain and so on.
